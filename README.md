@@ -13,7 +13,7 @@ I am a self-taught full stack developer mostly experienced in C#, Angular and Re
 
 
  <a href="https://github.com/seyituludag0/ReCapProject-Frontend">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyituludag0&hide=css,java,html&theme=yeblu" data-canonical-src="https://github-readme-stats.vercel.app/api/pin?username=seyituludag0&amp;repo=CarRent&amp;show_icons=true&amp;theme=tokyonight" style="max-width:100%;">
+    <img  data-canonical-src="https://github-readme-stats.vercel.app/api/pin?username=seyituludag0&amp;repo=CarRent&amp;show_icons=true&amp;theme=tokyonight" style="max-width:100%;">
   </a>
 
 
