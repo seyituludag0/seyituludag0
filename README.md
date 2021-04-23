@@ -42,6 +42,6 @@ I am a self-taught full stack developer mostly experienced in C#, Angular and Re
 
 ---
 [instagram]: https://www.instagram.com/seyituludag0
-[linkedin]: www.linkedin.com/in/seyituludag
+[linkedin]: www.linkedin.com/in/seyituludagxdgdfd
 [gmail]:mailto:seyituludag0@gmail.com
 
