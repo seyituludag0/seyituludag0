@@ -1,7 +1,10 @@
 ![Profile views](https://gpvc.arturio.dev/seyituludag0) 
 ## Hi 👋 I am Seyit Uludağ!
-I am a self-taught full stack developer mostly experienced in C#, Angular and React. I care about writing clean code.
--  🚗  I am currently working on a car rental project..
+I am a self-taught junior developer in C #, Angular and React. I care about writing clean code.
+
+🚗 I am currently working on a car rental project ..
+
+And I'm learning Java at the same time 
 
 <details open>
  <summary>  <b>My Github Stats</b>: </summary>
