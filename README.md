@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/seyituludag0) 
 ## Merhaba 👋 Ben Seyit Uludağ!
-C #, Angular ve React alanlarında kendi kendime eğitim almış bir genç geliştiriciyim. Temiz kod yazmayı önemsiyorum.
+C #, Angular ve React alanlarında eğitim almış bir genç geliştiriciyim. Temiz kod yazmayı önemsiyorum.
 
 🚗 Şu anda bir araba kiralama projesi üzerinde çalışıyorum ..
 
