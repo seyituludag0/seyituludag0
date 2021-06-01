@@ -2,9 +2,9 @@
 ## Merhaba 👋 Ben Seyit Uludağ!
 C #, Angular ve React alanlarında eğitim almış bir genç geliştiriciyim. Temiz kod yazmayı önemsiyorum.
 
-🚗 Şu anda bir araba kiralama projesi üzerinde çalışıyorum..
+ 🚗 Şu anda bir HRMS(Human Resource Management System) projesi üzerinde çalışıyorum..
 
-Ve aynı zamanda Java öğreniyorum.
+
 
 <details open>
  <summary>  <b>My Github Stats</b>: </summary>
