@@ -42,7 +42,6 @@ I am currently trying to develop various projects to improve myself in the field
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Visual_Studio_23517.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/server_icon_129328.png" />
 
 <img align="left" alt="angularJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
