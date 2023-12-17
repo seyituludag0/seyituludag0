@@ -7,13 +7,15 @@ Java ve React ile de Human Resource Management System projesi geliştirdim.
 
 Projelere aşağıdaki linklerden ulaşabilirsiniz.
 
-[Rent a Car Backend Projesi](https://github.com/seyituludag0/ReCapProject)
+[Rent a Car Backend Projesi](https://github.com/seyituludag0/ReCapProject target="_blank")
 
-[Rent a Car Frontend Projesi](https://github.com/seyituludag0/Car-Rental)
+[Rent a Car Frontend Projesi](https://github.com/seyituludag0/Car-Rental target="_blank")
 
-[Human Resource Management System Backend Projesi](https://github.com/seyituludag0/HumanResourceManagementSystem)
+[Human Resource Management System Backend Projesi](https://github.com/seyituludag0/HumanResourceManagementSystem target="_blank")
 
-[Human Resource Management System Frontend Projesi](https://github.com/seyituludag0/HumanResourceManagementSystem)
+[Human Resource Management System Frontend Projesi](https://github.com/seyituludag0/HumanResourceManagementSystem target="_blank")
+
+[link](url){:target="_blank"}
 
 Şu an React bilgimi kullanarak React Native ile mobil uygulama geliştirme alanında da kendimi geliştirmek için çeşitli projeler geliştirmeye çalışıyorum.
 
