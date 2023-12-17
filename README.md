@@ -15,7 +15,7 @@ Projelere aşağıdaki linklerden ulaşabilirsiniz.
 
 [Human Resource Management System Frontend Projesi](https://github.com/seyituludag0/HumanResourceManagementSystem target="_blank")
 
-[link](url){:target="_blank"}
+[Açıklama](https://www.ornek.com){:target="_blank"}
 
 Şu an React bilgimi kullanarak React Native ile mobil uygulama geliştirme alanında da kendimi geliştirmek için çeşitli projeler geliştirmeye çalışıyorum.
 
