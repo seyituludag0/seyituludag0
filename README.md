@@ -1,9 +1,21 @@
-![Profile views](https://gpvc.arturio.dev/seyituludag0) 
 ## Merhaba 👋 Ben Seyit Uludağ!
-C#,Java, Angular ve React alanlarında eğitim almış şu anda da Java öğrenen bir genç geliştiriciyim. SOLID prensiplerine uygun temiz kod yazmayı önemsiyorum.
+C#, Java, Angular ve React alanlarında eğitim almış bir Full Stack Geliştiriciyim. SOLID prensiplerine uygun temiz kod yazmayı önemsiyorum.
 
-👤 Şu anda bir HRMS(Human Resource Management System) projesi üzerinde çalışıyorum..
+C# ve Angular ile Rent a Car projesi geliştirdim.
 
+Java ve React ile de Human Resource Management System projesi geliştirdim.
+
+Projelere aşağıdaki linklerden ulaşabilirsiniz.
+
+[Rent a Car Backend Projesi](https://github.com/seyituludag0/ReCapProject)
+
+[Rent a Car Frontend Projesi](https://github.com/seyituludag0/Car-Rental)
+
+[Human Resource Management System Backend Projesi](https://github.com/seyituludag0/HumanResourceManagementSystem)
+
+[Human Resource Management System Frontend Projesi](https://github.com/seyituludag0/HumanResourceManagementSystem)
+
+Şu an React bilgimi kullanarak React Native ile mobil uygulama geliştirme alanında da kendimi geliştirmek için çeşitli projeler geliştirmeye çalışıyorum.
 
 
 <details open>
