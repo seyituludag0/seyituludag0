@@ -1,22 +1,22 @@
-## Merhaba 👋 Ben Seyit Uludağ!
-C#, Java, Angular ve React alanlarında eğitim almış bir Full Stack Geliştiriciyim. SOLID prensiplerine uygun temiz kod yazmayı önemsiyorum.
+## Hi 👋 I am Seyit Uludağ!
+I am a Full Stack Developer trained in C#, Java, Angular and React. I care about writing clean code in accordance with SOLID principles.
 
-C# ve Angular ile Rent a Car projesi geliştirdim.
+I developed a Rent a Car project with C# and Angular.
 
-Java ve React ile de Human Resource Management System projesi geliştirdim.
+I also developed a Human Resource Management System project with Java and React.
 
-Projelere aşağıdaki linklerden ulaşabilirsiniz.
+You can access the projects from the links below.
 
-[Rent a Car Backend Projesi](https://github.com/seyituludag0/ReCapProject target="_blank")
+[Rent a Car Backend Project](https://github.com/seyituludag0/ReCapProject)
 
-[Rent a Car Frontend Projesi](https://github.com/seyituludag0/Car-Rental target="_blank")
+[Rent a Car Frontend Project](https://github.com/seyituludag0/Car-Rental)
 
-[Human Resource Management System Backend Projesi](https://github.com/seyituludag0/HumanResourceManagementSystem target="_blank")
+[Human Resource Management System Backend Project](https://github.com/seyituludag0/HumanResourceManagementSystem)
 
-[Human Resource Management System Frontend Projesi](https://github.com/seyituludag0/HumanResourceManagementSystem target="_blank")
+[Human Resource Management System Frontend Project](https://github.com/seyituludag0/HumanResourceManagementSystem)
 
 
-Şu an React bilgimi kullanarak React Native ile mobil uygulama geliştirme alanında da kendimi geliştirmek için çeşitli projeler geliştirmeye çalışıyorum.
+I am currently trying to develop various projects to improve myself in the field of mobile application development with React Native using my React knowledge.
 
 
 <details open>
