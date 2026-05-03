@@ -1,62 +1,61 @@
-## Hi 👋 I am Seyit Uludağ!
-I am a Full Stack Developer trained in C#, Java, Angular and React. I care about writing clean code in accordance with SOLID principles.
+## Hi 👋 I'm Seyit Uludağ!
 
-I developed a Rent a Car project with C# and Angular.
+I'm a **Full Stack Developer** based in Istanbul, Turkey, working primarily with **C# / ASP.NET Core** and **React / TypeScript**.
 
-I also developed a Human Resource Management System project with Java and React.
-
-You can access the projects from the links below.
-
-[Rent a Car Backend Project](https://github.com/seyituludag0/ReCapProject)
-
-[Rent a Car Frontend Project](https://github.com/seyituludag0/Car-Rental)
-
-[Human Resource Management System Backend Project](https://github.com/seyituludag0/HumanResourceManagementSystem)
-
-[Human Resource Management System Frontend Project](https://github.com/seyituludag0/HumanResourceManagementSystem)
-
-
-I am currently trying to develop various projects to improve myself in the field of mobile application development with React Native using my React knowledge.
-
-
-<details open>
- <summary>  <b>My Github Stats</b>: </summary>
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=seyituludag0&show_icons=true&theme=yeblu&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=seyituludag0&hide=css,java,html&theme=yeblu">
-</p>
-
-
-</details>
-
-### Connect with me:
-[<img align="left" alt="seyituludag0 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="seyituludag0 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-
-[<img align="left" alt="seyituludag0 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Visual_Studio_23517.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-
-<img align="left" alt="angularJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-
-
-<br />
-<br />
+Experienced in building microservice-based backend systems and React frontends.
 
 ---
-[instagram]: https://www.instagram.com/seyituludag0
-[linkedin]: https://www.linkedin.com/in/seyituludag
-[gmail]:mailto:seyituludag0@gmail.com
 
+### 🛠 Tech Stack
+
+**Backend**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
+![CQRS](https://img.shields.io/badge/CQRS-005571?style=flat)
+![MediatR](https://img.shields.io/badge/MediatR-005571?style=flat)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+**Frontend**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+
+**Database & Tools**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+**[nArchCore](https://github.com/seyituludag0/nArchCore)** — Reusable Auth & Clean Architecture Library (.NET 8)
+> Published as a NuGet package. JWT + Refresh Token rotation, device fingerprinting, active session management, MFA, audit log. Built with CQRS + MediatR + FluentValidation.
+
+**[ECommerce API](https://github.com/seyituludag0/ECommerce)** — E-commerce backend using nArchCore (.NET 8)
+> Clean Architecture with Domain/Application/Infrastructure/API layers. Full CRUD for products, variants, brands, categories and sellers. EF Core + MSSQL.
+
+**PIKO** *(private)* — ESP32-based AI Desktop Robot
+> Custom-built desktop robot with speech recognition, TTS, LED control, servo motors and a web interface. Flask AI server, React Native mobile app.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seyituludag0&show_icons=true&theme=tokyonight&line_height=27" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyituludag0&hide=css,html&theme=tokyonight" />
+</p>
+
+---
+
+### 📬 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyituludag)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:seyituludag0@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/seyituludag0)
