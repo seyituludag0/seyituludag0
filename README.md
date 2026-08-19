@@ -63,12 +63,15 @@
 
 ### 🚀 Featured Projects
 
+<!-- Update / remove the links below to point at your real repos -->
+
 **📦 [nArchCore](https://www.nuget.org/packages/nArchCore)** <!-- update link -->
 Published NuGet package with reusable auth building blocks: JWT + refresh token rotation, MFA, and audit logging for .NET services.
 
-
-**🤖 [PIKO — Desktop AI Robot](https://github.com/seyituludag0)** <!-- repo link -->
+**🤖 PIKO — Desktop AI Robot** &nbsp; 🔒 *private*
 An ESP32-based companion robot: animated OLED eyes, voice interaction (Whisper STT + TTS), servo motion, WS2812B LEDs, and a small Python brain with memory. Full firmware + REST API + mobile app.
+📹 *Demo:* <!-- add a YouTube / photos link here -->
+
 
 <details>
   <summary>📚 Earlier projects</summary>
@@ -94,9 +97,9 @@ An ESP32-based companion robot: animated OLED eyes, voice interaction (Whisper S
 
 ### 🌐 Connect with me
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://api.iconify.design/mdi/linkedin.svg?color=white" />][linkedin]
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.simpleicons.org/gmail/white" />][gmail]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/white" />][instagram]
 
 <br />
 
