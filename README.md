@@ -88,8 +88,8 @@ An ESP32-based companion robot: animated OLED eyes, voice interaction (Whisper S
   <summary><b>📊 My GitHub Stats</b></summary>
   <br>
   <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=seyituludag0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyituludag0&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
+    <img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
+    <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
   </p>
 </details>
 
